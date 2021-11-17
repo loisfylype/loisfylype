@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @loisfylype
-- 👀 I’m interested in Development
+- 👋 Hi, I’m Luis Fellype
+- 👀 I’m interested in Front-End
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me luis.fellype7@gmail.com
