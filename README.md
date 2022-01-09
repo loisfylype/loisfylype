@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Fellype
-- 👀 I’m interested in Front-End
+- 👀 I’m interested in Back-end
 - 🌱 I’m currently learning WebDev
 - 📫 How to reach me luis.fellype7@gmail.com
 
