@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Fellype
 - 👀 I’m interested in FullStack
-- 🌱 I’m currently learning React and Spring
+- 🌱 I’m currently learning serveless application & AWS Lambda
 - 📫 How to reach me luis.fellype7@gmail.com
 
 <!---
